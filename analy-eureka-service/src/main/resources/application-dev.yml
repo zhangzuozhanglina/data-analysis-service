@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  profiles:
+    active: dev
+  application:
+    name: analysis-eureka-service-discover
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:${server.port}/eureka/
