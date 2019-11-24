@@ -1,5 +1,6 @@
 package com.metu.analyapploginauth.login.controller;
 
+import io.swagger.annotations.Api;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -13,7 +14,8 @@ import java.util.Date;
  * @Version 1.0
  **/
 @RestController("DemoController")
-public class DemoController {
+@Api(value="demo", description="这是一个Swagger demo的服务")
+public class UserLoginController {
     /* *
      * @Author zhengzz
      * @Description 提供日期服务调用
