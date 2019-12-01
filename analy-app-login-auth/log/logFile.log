@@ -1,0 +1,7 @@
+23:30:08.931 [main] INFO  c.m.a.config.RedisConfigTest:655- The following profiles are active: dev
+23:30:20.240 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+23:30:20.240 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+23:30:20.287 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+23:30:20.287 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+23:30:30.816 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.cj.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+23:30:30.948 [main] INFO  c.m.a.config.RedisConfigTest:61- Started RedisConfigTest in 29.045 seconds (JVM running for 30.898)

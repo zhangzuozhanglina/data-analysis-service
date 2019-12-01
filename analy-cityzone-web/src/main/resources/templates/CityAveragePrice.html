@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <script src="../static/js/lib/vue/vue.min.js"></script>
+    <!-- 引入样式 -->
+    <link rel="stylesheet" href="../static/css/iview.css">
+    <!-- 引入组件库 -->
+    <script src="../static/js/lib/vue/iview.min.js"></script>
+</head>
+<body>
+    <div id="app" style="margin: 10px">
+    
+    <i-table  border stripe  :loading="loading" :columns="columns1" :data="data1"
+    @on-select = 'selectTable(selection,row)'
+    ></i-table>
+    <i-button @click="handleSelectAll(true)">Set all selected</i-button>
+    <i-button @click="handleSelectAll(false)">Cancel all selected</i-button>
+</div>
+
+</body>
+<script>
+  var vm=  new Vue({
+        el: '#app',
+        created: function () {
+          
+        },
+        methods: {
+            hello : function() {
+                    alert("hello")
+            },
+            handleSelectAll (status) {
+                
+            },
+            selectTable(){
+                console.log(this.$ref.selection)
+             }
+        },
+        data: {
+            loading:false,
+            columns1: [
+                    {
+                        type: 'selection',
+                        width: 60,
+                        align: 'center'
+                    },
+                    {
+                        title: '省份',
+                        key: 'name',
+                        sortable: true
+                    },
+                    {
+                        title: '省编码',
+                        key: 'age',
+                        sortable: true
+                    },
+                    {
+                        title: '房屋均价',
+                        key: 'address',
+                        sortable: true,
+                        filters: [
+                            {
+                                label: '大于10000元',
+                                value: 1
+                            },
+                            {
+                                label: '5000-10000元',
+                                value: 2
+                            },
+                            {
+                                label: '5000-10000元',
+                                value: 3
+                            }
+                        ],
+                        filterMultiple: false,
+                        filterMethod (value, row) {
+                            if (value === 1) {
+                                return row.age > 10000;
+                            } else if (value === 2) {
+                                return row.age>5000 || row.age <= 10000;
+                            }
+                        }
+                    },
+                    {
+                        title: '涨幅',
+                        key: 'address',
+                        sortable: true
+                    }
+                ],
+                data1: [
+                    {
+                        name: '北京',
+                        age: 1001,
+                        address: 40000,
+                        date: '跌 0.02'
+                    },
+                    {
+                        name: 'Jim Green',
+                        age: 24000,
+                        address: 'London No. 1 Lake Park',
+                        date: '2016-10-01'
+                    },
+                    {
+                        name: 'Joe Black',
+                        age: 30111,
+                        address: 'Sydney No. 1 Lake Park',
+                        date: '2016-10-02'
+                    },
+                    {
+                        name: 'Jon Snow',
+                        age: 2611,
+                        address: 'Ottawa No. 2 Lake Park',
+                        date: '2016-10-04'
+                    }
+                ]
+        }
+    })
+</script>
+</html>

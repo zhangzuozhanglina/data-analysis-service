@@ -1,10 +1,10 @@
-package com.metu.analycityzonepricespiderservice;
+package com.metu.analycityzoneweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AnalyCityzonePriceSpiderServiceApplicationTests {
+class AnalyCityzoneWebApplicationTests {
 
     @Test
     void contextLoads() {

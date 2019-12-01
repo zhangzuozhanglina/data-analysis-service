@@ -1,0 +1,36 @@
+server:
+  port: 8084
+spring:
+  profiles:
+    active: dev
+  application:
+    name: city-zone-web
+  main:
+    allow-bean-definition-overriding: true
+  thymeleaf:
+    cache: false
+    check-template: true
+    enable-spring-el-compiler: true
+    enabled: true
+    mode: HTML
+    check-template-location: true
+    encoding: UTF-8
+    prefix: classpath:/templates/
+    servlet:
+      content-type: text/html
+    suffix: .html
+  devtools:
+    remote:
+      restart:
+        enabled: true
+    restart:
+      enabled: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+ribbon:
+  eureka:
+    enabled:true
+
+# 配置freemark

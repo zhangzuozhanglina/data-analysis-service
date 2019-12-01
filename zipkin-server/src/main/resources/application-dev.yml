@@ -1,0 +1,14 @@
+server:
+  port: 8086
+spring:
+  profiles:
+    active: dev
+  application:
+    name: analy-zipkin-server
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+ribbon:
+  eureka:
+    enabled:true
