@@ -2,6 +2,7 @@ package com.metu.analyapploginauth.login.PO;
 
 
 import lombok.*;
+import lombok.experimental.Accessors;
 
 /**
 *@ClassNameUserInfoEntity
@@ -12,10 +13,10 @@ import lombok.*;
 **/
 @Data
 @ToString
-@Setter
-@Getter
 @NoArgsConstructor
 @AllArgsConstructor
+@Builder
+@Accessors(chain = true,fluent = false)
 public class UserInfoEntity{
 private String user_id;
 private String user_name;

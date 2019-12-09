@@ -3,7 +3,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.metu.analyapploginauth.mapper.UserLoginMapper">
-    <select id="selectUserById" resultType="map">
-        select  user_id from analysisauth.t_users_information
+    <select id="selectUserById" resultType="java.util.HashMap">
+        select  * from analysisauth.t_users_information
     </select>
 </mapper>

@@ -3,8 +3,10 @@ package com.metu.analyapploginauth.mapper;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.metu.analyapploginauth.login.PO.UserInfoEntity;
 import org.apache.ibatis.annotations.Mapper;
+import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;
+import java.util.List;
 
 /**
  * @ClassName UserLoginMapper
@@ -13,7 +15,7 @@ import java.util.HashMap;
  * @Date 2019/11/25 22:11
  * @Version 1.0
  **/
-@Mapper
+@Repository
 public interface UserLoginMapper extends  BaseMapper<UserInfoEntity>{
-    public HashMap<String,String> selectUserById();
+    public List<HashMap<String,String>> selectUserById();
 }

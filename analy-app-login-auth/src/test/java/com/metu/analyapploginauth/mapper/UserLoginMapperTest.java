@@ -8,6 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
+import java.util.HashMap;
+import java.util.List;
+
 /**
  * @ClassName UserLoginMapperTest
  * @Description TODO
@@ -24,10 +27,13 @@ public class UserLoginMapperTest {
 
     @Test
     public void testQueryById() {
-        userLoginMapper.selectUserById();
+        List<HashMap<String,String>> rs=userLoginMapper.selectUserById();
+        System.out.println(rs.toString());
     }
     @Test
     public void testUserLoginByMybatisPlus() {
+
+
         // 新增用户
         /*UserInfoEntity user=new UserInfoEntity();
         user.setUser_id("1");
@@ -36,8 +42,8 @@ public class UserLoginMapperTest {
         userLoginMapper.insert(user);*/
         // 查看用户
 
-       int rs= userLoginMapper.selectCount(new QueryWrapper<UserInfoEntity>().lambda().eq(UserInfoEntity::getUser_id,"1"));
-        System.out.println(rs);
+      /* int rs= userLoginMapper.selectCount(new QueryWrapper<UserInfoEntity>().lambda().eq(UserInfoEntity::getUser_id,"1"));
+        System.out.println(rs);*/
     }
 
 
