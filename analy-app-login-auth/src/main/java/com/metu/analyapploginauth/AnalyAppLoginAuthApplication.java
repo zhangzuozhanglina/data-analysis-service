@@ -11,8 +11,7 @@ import org.springframework.context.annotation.ComponentScan;
 @SpringBootApplication
 @EnableDiscoveryClient
 @EnableFeignClients
-@ComponentScan(basePackages = {"com"})
-//@MapperScan("com.metu.analyapploginauth.mapper")
+@MapperScan("com.metu.analyapploginauth.mapper")
 public class AnalyAppLoginAuthApplication {
 
     public static void main(String[] args) {

@@ -1,300 +1,958 @@
-22:30:49.396 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:30:56.520 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:30:56.521 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:30:56.526 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:30:56.527 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:31:04.898 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:31:04.944 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 23.68 seconds (JVM running for 25.122)
-22:34:07.388 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:34:12.904 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:34:12.904 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:34:12.909 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:34:12.910 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:34:20.905 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:34:20.948 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 21.797 seconds (JVM running for 23.11)
-22:36:10.983 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:36:15.892 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:36:15.892 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:36:15.899 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:36:15.900 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:36:23.766 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:36:23.804 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 20.534 seconds (JVM running for 21.565)
-22:42:57.433 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:43:02.498 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:43:02.498 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:43:02.506 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:43:02.507 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:43:10.837 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:43:10.889 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 20.729 seconds (JVM running for 22.171)
-22:51:09.491 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:51:14.722 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:51:14.722 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:51:14.729 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:51:14.729 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:51:23.019 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:51:23.056 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 22.293 seconds (JVM running for 23.728)
-22:51:23.419 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
-22:51:23.421 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
-22:51:23.421 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
-22:51:23.422 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
-22:51:23.422 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
-22:51:23.422 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
-22:51:23.422 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
-22:51:23.422 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
-22:51:23.422 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
-22:51:23.423 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
-22:51:23.423 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
-22:51:23.423 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
-22:51:23.423 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
-22:51:23.424 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
-22:51:23.424 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
-22:51:23.424 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
-22:51:23.424 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
-22:51:23.424 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
-22:51:23.424 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
-22:51:23.424 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
-22:51:23.425 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
-22:51:23.425 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
-22:51:23.425 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
-22:51:23.425 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
-22:51:23.425 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
-22:51:23.426 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
-22:51:23.426 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
-22:51:23.426 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
-22:51:23.426 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
-22:51:23.427 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
-22:51:23.427 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
-22:51:23.427 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
-22:51:23.427 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
-22:51:23.427 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
-22:51:23.428 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
-22:51:23.431 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
-22:51:23.432 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:51:23.960 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29c3dd33
-22:51:23.962 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
-22:51:23.980 [main] DEBUG c.m.a.m.U.selectUserById:143- ==>  Preparing: select user_id from analysisauth.t_users_information 
-22:51:24.005 [main] DEBUG c.m.a.m.U.selectUserById:143- ==> Parameters: 
-22:51:24.061 [main] DEBUG c.m.a.m.U.selectUserById:143- <==      Total: 0
-22:51:24.063 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
-22:51:24.074 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@71a309cc
-22:51:24.085 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@309e03f7
-22:51:24.097 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1e4d275
-22:51:24.105 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@50b1fcb8
-22:51:24.111 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1db5799a
-22:51:24.122 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@54ff40a8
-22:51:24.124 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
-22:51:24.125 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=7, active=0, idle=7, waiting=0)
-22:51:24.126 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29c3dd33: (connection evicted)
-22:51:24.131 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@594edb44
-22:51:24.133 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@71a309cc: (connection evicted)
-22:51:24.134 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@309e03f7: (connection evicted)
-22:51:24.136 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1e4d275: (connection evicted)
-22:51:24.137 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50b1fcb8: (connection evicted)
-22:51:24.138 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1db5799a: (connection evicted)
-22:51:24.139 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@54ff40a8: (connection evicted)
-22:51:24.140 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@594edb44: (connection evicted)
-22:51:24.141 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
-22:51:24.141 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
-22:55:39.128 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:55:44.248 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:55:44.249 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:55:44.254 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:55:44.254 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:55:52.703 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:55:52.735 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 21.137 seconds (JVM running for 22.17)
-22:55:53.110 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
-22:55:53.111 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
-22:55:53.112 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
-22:55:53.112 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
-22:55:53.112 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
-22:55:53.113 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
-22:55:53.113 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
-22:55:53.113 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
-22:55:53.113 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
-22:55:53.113 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
-22:55:53.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
-22:55:53.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
-22:55:53.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
-22:55:53.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
-22:55:53.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
-22:55:53.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
-22:55:53.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
-22:55:53.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
-22:55:53.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
-22:55:53.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
-22:55:53.116 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
-22:55:53.116 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
-22:55:53.116 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
-22:55:53.116 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
-22:55:53.116 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
-22:55:53.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
-22:55:53.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
-22:55:53.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
-22:55:53.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
-22:55:53.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
-22:55:53.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
-22:55:53.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
-22:55:53.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
-22:55:53.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
-22:55:53.118 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
-22:55:53.122 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
-22:55:53.122 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:55:53.281 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29c3dd33
-22:55:53.282 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
-22:55:53.300 [main] DEBUG c.m.a.m.U.selectUserById:143- ==>  Preparing: select user_id from analysisauth.t_users_information 
-22:55:53.326 [main] DEBUG c.m.a.m.U.selectUserById:143- ==> Parameters: 
-22:55:53.352 [main] DEBUG c.m.a.m.U.selectUserById:143- <==      Total: 1
-22:55:53.383 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
-22:55:53.391 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@370b7f9f
-22:55:53.401 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@763675a4
-22:55:53.410 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
-22:55:53.411 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@470a42f8
-22:55:53.411 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=4, active=0, idle=4, waiting=0)
-22:55:53.412 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29c3dd33: (connection evicted)
-22:55:53.417 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@370b7f9f: (connection evicted)
-22:55:53.418 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@763675a4: (connection evicted)
-22:55:53.419 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@470a42f8: (connection evicted)
-22:55:53.420 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
-22:55:53.420 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
-22:56:19.371 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:56:24.462 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:56:24.463 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:56:24.469 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:56:24.469 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:56:32.584 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:56:32.620 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 20.17 seconds (JVM running for 21.101)
-22:56:33.036 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
-22:56:33.037 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
-22:56:33.038 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
-22:56:33.038 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
-22:56:33.038 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
-22:56:33.038 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
-22:56:33.038 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
-22:56:33.039 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
-22:56:33.039 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
-22:56:33.039 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
-22:56:33.040 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
-22:56:33.040 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
-22:56:33.040 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
-22:56:33.040 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
-22:56:33.040 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
-22:56:33.040 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
-22:56:33.041 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
-22:56:33.041 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
-22:56:33.041 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
-22:56:33.041 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
-22:56:33.041 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
-22:56:33.041 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
-22:56:33.042 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
-22:56:33.042 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
-22:56:33.042 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
-22:56:33.042 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
-22:56:33.043 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
-22:56:33.043 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
-22:56:33.043 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
-22:56:33.043 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
-22:56:33.044 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
-22:56:33.044 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
-22:56:33.044 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
-22:56:33.044 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
-22:56:33.045 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
-22:56:33.049 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
-22:56:33.050 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:56:33.196 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6fa1dc0c
-22:56:33.197 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
-22:56:33.213 [main] DEBUG c.m.a.m.U.selectUserById:143- ==>  Preparing: select * from analysisauth.t_users_information 
-22:56:33.238 [main] DEBUG c.m.a.m.U.selectUserById:143- ==> Parameters: 
-22:56:33.269 [main] DEBUG c.m.a.m.U.selectUserById:143- <==      Total: 1
-22:56:33.298 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
-22:56:33.360 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6269bc5a
-22:56:33.372 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2354b661
-22:56:33.383 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@123db696
-22:56:33.390 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@437b492e
-22:56:33.399 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4b53bf88
-22:56:33.408 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4735f6ec
-22:56:33.415 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25c6ea66
-22:56:33.419 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
-22:56:33.419 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=8, active=0, idle=8, waiting=0)
-22:56:33.422 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6fa1dc0c: (connection evicted)
-22:56:33.423 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ec8bdf8
-22:56:33.435 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6269bc5a: (connection evicted)
-22:56:33.436 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2354b661: (connection evicted)
-22:56:33.438 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@123db696: (connection evicted)
-22:56:33.440 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@437b492e: (connection evicted)
-22:56:33.440 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4b53bf88: (connection evicted)
-22:56:33.441 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4735f6ec: (connection evicted)
-22:56:33.442 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@25c6ea66: (connection evicted)
-22:56:33.443 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ec8bdf8: (connection evicted)
-22:56:33.443 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
-22:56:33.444 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
-22:58:28.821 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
-22:58:34.117 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:58:34.118 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:58:34.126 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
-22:58:34.126 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
-22:58:43.577 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:58:43.644 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 22.107 seconds (JVM running for 22.999)
-22:58:44.108 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
-22:58:44.112 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
-22:58:44.113 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
-22:58:44.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
-22:58:44.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
-22:58:44.114 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
-22:58:44.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
-22:58:44.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
-22:58:44.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
-22:58:44.115 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
-22:58:44.116 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
-22:58:44.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
-22:58:44.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
-22:58:44.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
-22:58:44.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
-22:58:44.117 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
-22:58:44.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
-22:58:44.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
-22:58:44.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
-22:58:44.118 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
-22:58:44.119 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
-22:58:44.119 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
-22:58:44.119 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
-22:58:44.119 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
-22:58:44.119 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
-22:58:44.120 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
-22:58:44.120 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
-22:58:44.120 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
-22:58:44.121 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
-22:58:44.121 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
-22:58:44.121 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
-22:58:44.121 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
-22:58:44.121 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
-22:58:44.122 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
-22:58:44.122 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
-22:58:44.126 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
-22:58:44.126 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
-22:58:44.297 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b0dc426
-22:58:44.299 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
-22:58:44.323 [main] DEBUG c.m.a.m.U.selectUserById:143- ==>  Preparing: select * from analysisauth.t_users_information 
-22:58:44.356 [main] DEBUG c.m.a.m.U.selectUserById:143- ==> Parameters: 
-22:58:44.385 [main] DEBUG c.m.a.m.U.selectUserById:143- <==      Total: 2
-22:58:44.401 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
-22:58:44.412 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40198ec9
-22:58:44.423 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@12484f2
-22:58:44.434 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@30ef4643
-22:58:44.442 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@610b7bbd
-22:58:44.456 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@700d390f
-22:58:44.468 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6545661f
-22:58:44.477 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ff4fea
-22:58:44.480 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
-22:58:44.481 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=8, active=0, idle=8, waiting=0)
-22:58:44.482 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b0dc426: (connection evicted)
-22:58:44.483 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14bb3a58
-22:58:44.489 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@40198ec9: (connection evicted)
-22:58:44.490 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@12484f2: (connection evicted)
-22:58:44.491 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@30ef4643: (connection evicted)
-22:58:44.493 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@610b7bbd: (connection evicted)
-22:58:44.494 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@700d390f: (connection evicted)
-22:58:44.496 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6545661f: (connection evicted)
-22:58:44.498 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5ff4fea: (connection evicted)
-22:58:44.499 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@14bb3a58: (connection evicted)
-22:58:44.500 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
-22:58:44.501 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:05:57.931 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:06:05.678 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:06:05.678 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:06:05.699 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:06:05.699 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:06:16.103 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:06:16.181 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 27.52 seconds (JVM running for 29.932)
+13:07:51.269 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:07:57.096 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:07:57.096 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:07:57.102 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:07:57.102 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:08:07.420 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:08:07.460 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 24.782 seconds (JVM running for 25.82)
+13:09:52.897 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:09:58.425 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:09:58.425 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:09:58.433 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:09:58.433 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:10:07.535 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:10:07.580 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 22.895 seconds (JVM running for 24.02)
+13:11:37.346 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:11:39.816 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:264- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:11:41.573 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:304- Not found configuration for registering mapper bean using @MapperScan, MapperFactoryBean and MapperScannerConfigurer.
+13:11:42.752 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:11:42.753 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:11:42.762 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:11:42.763 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:11:52.546 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:11:52.642 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 23.859 seconds (JVM running for 24.839)
+13:15:08.669 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:15:11.079 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:264- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:15:12.845 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:304- Not found configuration for registering mapper bean using @MapperScan, MapperFactoryBean and MapperScannerConfigurer.
+13:15:13.938 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:15:13.938 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:15:13.947 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:15:13.947 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:15:23.794 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:15:23.838 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 23.323 seconds (JVM running for 24.358)
+13:18:21.978 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:18:24.574 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:264- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:18:26.418 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:304- Not found configuration for registering mapper bean using @MapperScan, MapperFactoryBean and MapperScannerConfigurer.
+13:18:27.450 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:18:27.450 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:18:27.457 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:18:27.457 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:18:36.966 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:18:37.025 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 23.345 seconds (JVM running for 24.245)
+13:19:20.708 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:19:23.313 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:264- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:19:25.046 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:304- Not found configuration for registering mapper bean using @MapperScan, MapperFactoryBean and MapperScannerConfigurer.
+13:19:26.322 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:19:26.323 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:19:26.332 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:19:26.332 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:19:35.742 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:19:35.779 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 23.351 seconds (JVM running for 24.297)
+13:19:36.277 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:19:36.279 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:19:36.279 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:19:36.280 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:19:36.280 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:19:36.280 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:19:36.280 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:19:36.280 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:19:36.281 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:19:36.281 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:19:36.281 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:19:36.281 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:19:36.282 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:19:36.282 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:19:36.282 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:19:36.282 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:19:36.282 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:19:36.283 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:19:36.283 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:19:36.283 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:19:36.283 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:19:36.283 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:19:36.283 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:19:36.284 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:19:36.284 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:19:36.284 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:19:36.285 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:19:36.285 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:19:36.286 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:19:36.286 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:19:36.286 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:19:36.286 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:19:36.287 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:19:36.287 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:19:36.287 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:19:36.292 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:19:36.293 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:19:36.565 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b0dc426
+13:19:36.566 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:19:36.584 [main] DEBUG c.m.a.m.U.selectUserById:143- ==>  Preparing: select * from analysisauth.t_users_information 
+13:19:36.610 [main] DEBUG c.m.a.m.U.selectUserById:143- ==> Parameters: 
+13:19:36.668 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+13:19:36.678 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7e42d4ba
+13:19:36.686 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3f7fde81
+13:19:36.689 [main] DEBUG c.m.a.m.U.selectUserById:143- <==      Total: 2
+13:19:36.694 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e8a612e
+13:19:36.703 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f5021ce
+13:19:36.713 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@48334378
+13:19:36.721 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b1e1a37
+13:19:36.731 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7aebadf
+13:19:36.741 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@33c7c883
+13:19:36.752 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:19:36.752 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=9, active=0, idle=9, waiting=0)
+13:19:36.753 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@59428934
+13:19:36.753 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After adding stats (total=9, active=0, idle=9, waiting=0)
+13:19:36.753 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b0dc426: (connection evicted)
+13:19:37.078 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7e42d4ba: (connection evicted)
+13:19:37.079 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3f7fde81: (connection evicted)
+13:19:37.081 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@e8a612e: (connection evicted)
+13:19:37.082 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5f5021ce: (connection evicted)
+13:19:37.083 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@48334378: (connection evicted)
+13:19:37.084 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5b1e1a37: (connection evicted)
+13:19:37.086 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7aebadf: (connection evicted)
+13:19:37.087 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@33c7c883: (connection evicted)
+13:19:37.088 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@59428934: (connection evicted)
+13:19:37.089 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:19:37.090 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:21:31.075 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:21:33.874 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:264- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:21:35.542 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:304- Not found configuration for registering mapper bean using @MapperScan, MapperFactoryBean and MapperScannerConfigurer.
+13:21:36.609 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:21:36.609 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:21:36.617 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:21:36.617 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:21:46.839 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:21:46.878 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 24.844 seconds (JVM running for 25.767)
+13:23:55.627 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:23:57.922 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:237- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:23:59.584 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:284- No org.mybatis.spring.mapper.MapperFactoryBean found.
+13:24:01.099 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:24:01.099 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:24:01.109 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:24:01.109 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:24:10.696 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:24:10.733 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 24.63 seconds (JVM running for 25.659)
+13:26:08.205 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:26:10.660 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:237- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:26:12.374 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:284- No org.mybatis.spring.mapper.MapperFactoryBean found.
+13:26:13.345 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:26:13.345 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:26:13.352 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:26:13.352 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:26:22.646 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:26:22.711 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 22.656 seconds (JVM running for 23.649)
+13:27:10.153 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:27:12.358 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:237- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:27:13.963 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:284- No org.mybatis.spring.mapper.MapperFactoryBean found.
+13:27:15.019 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:27:15.019 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:27:15.026 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:27:15.027 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:27:24.496 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:27:24.535 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 23.029 seconds (JVM running for 24.002)
+13:28:19.776 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:28:22.489 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:237- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:28:24.219 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:284- No org.mybatis.spring.mapper.MapperFactoryBean found.
+13:28:25.314 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:28:25.314 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:28:25.320 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:28:25.321 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:28:34.720 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:28:34.781 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 23.404 seconds (JVM running for 24.583)
+13:30:28.009 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:30:31.206 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:237- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:30:32.927 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:284- No org.mybatis.spring.mapper.MapperFactoryBean found.
+13:30:34.096 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:30:34.096 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:30:34.105 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:30:34.105 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:30:43.526 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:30:43.578 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 24.092 seconds (JVM running for 25.037)
+13:32:16.353 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:32:18.524 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:237- Could not determine auto-configuration package, automatic mapper scanning disabled.
+13:32:20.602 [main] DEBUG c.b.m.a.MybatisPlusAutoConfiguration:284- No org.mybatis.spring.mapper.MapperFactoryBean found.
+13:32:21.644 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:32:21.644 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:32:21.653 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:32:21.653 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:32:30.884 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:32:30.934 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 22.773 seconds (JVM running for 23.717)
+13:38:09.851 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:38:13.602 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:38:13.603 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:38:13.609 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:38:13.609 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:38:14.496 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:38:14.499 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:38:26.642 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:38:26.692 [main] WARN  c.b.m.core.metadata.TableInfoHelper:280- Warn: Could not find @TableId in Class: com.metu.analyapploginauth.login.PO.UserInfoEntity.
+13:38:26.703 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:38:26.709 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:38:26.713 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:38:26.718 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:38:26.720 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:38:26.725 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:38:26.728 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:38:26.729 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:38:26.732 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:38:26.734 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:38:26.737 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:38:26.739 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:38:26.741 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:38:26.744 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:38:26.747 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:38:26.752 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:38:26.755 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:38:27.151 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:38:27.194 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 26.247 seconds (JVM running for 27.383)
+13:38:27.789 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:38:27.791 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:38:27.792 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:38:27.792 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:38:27.792 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:38:27.793 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:38:27.793 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:38:27.793 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:38:27.794 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:38:27.794 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:38:27.795 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:38:27.795 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:38:27.796 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:38:27.796 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:38:27.796 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:38:27.796 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:38:27.797 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:38:27.797 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:38:27.797 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:38:27.798 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:38:27.798 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:38:27.798 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:38:27.799 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:38:27.799 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:38:27.801 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:38:27.801 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:38:27.802 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:38:27.802 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:38:27.802 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:38:27.802 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:38:27.803 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:38:27.803 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:38:27.803 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:38:27.803 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:38:27.804 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:38:27.809 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:38:27.810 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:38:28.074 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@400008bf
+13:38:28.076 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:38:28.094 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==>  Preparing: INSERT INTO user_info_entity ( user_id, email, age ) VALUES ( ?, ?, ? ) 
+13:38:28.126 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==> Parameters: 1(String), 1234@qq.com(String), 24(Integer)
+13:38:28.176 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+13:38:28.187 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@33985289
+13:38:28.201 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@72a558b2
+13:38:28.223 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@439de840
+13:38:28.236 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@128aa7fd
+13:38:28.245 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@be83278
+13:38:28.258 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@16c459ce
+13:38:28.271 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@478045d3
+13:38:28.283 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@50b16c3f
+13:38:28.304 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@70077755
+13:38:28.304 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+13:38:28.425 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:38:28.425 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+13:38:28.427 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@400008bf: (connection evicted)
+13:38:28.435 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@33985289: (connection evicted)
+13:38:28.436 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@72a558b2: (connection evicted)
+13:38:28.437 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@439de840: (connection evicted)
+13:38:28.438 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@128aa7fd: (connection evicted)
+13:38:28.439 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@be83278: (connection evicted)
+13:38:28.440 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@16c459ce: (connection evicted)
+13:38:28.442 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@478045d3: (connection evicted)
+13:38:28.443 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50b16c3f: (connection evicted)
+13:38:28.444 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@70077755: (connection evicted)
+13:38:28.445 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:38:28.446 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:40:35.374 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:40:39.086 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:40:39.086 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:40:39.094 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:40:39.094 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:40:39.825 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:40:39.827 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:40:51.660 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:40:51.690 [main] WARN  c.b.m.core.metadata.TableInfoHelper:280- Warn: Could not find @TableId in Class: com.metu.analyapploginauth.login.PO.UserInfoEntity.
+13:40:51.699 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:40:51.704 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:40:51.707 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:40:51.713 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:40:51.714 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:40:51.719 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:40:51.722 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:40:51.723 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:40:51.725 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:40:51.726 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:40:51.729 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:40:51.731 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:40:51.735 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:40:51.737 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:40:51.741 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:40:51.744 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:40:51.747 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:40:52.116 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:40:52.150 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 24.884 seconds (JVM running for 25.895)
+13:40:52.634 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:40:52.636 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:40:52.636 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:40:52.636 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:40:52.636 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:40:52.637 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:40:52.637 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:40:52.637 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:40:52.637 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:40:52.637 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:40:52.638 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:40:52.638 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:40:52.639 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:40:52.639 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:40:52.639 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:40:52.640 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:40:52.640 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:40:52.640 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:40:52.641 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:40:52.641 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:40:52.641 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:40:52.642 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:40:52.642 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:40:52.642 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:40:52.642 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:40:52.643 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:40:52.643 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:40:52.643 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:40:52.643 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:40:52.644 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:40:52.644 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:40:52.644 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:40:52.644 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:40:52.645 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:40:52.645 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:40:52.650 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:40:52.650 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:40:52.814 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f
+13:40:52.816 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:40:52.834 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==>  Preparing: INSERT INTO t_users_information ( user_id, email, age ) VALUES ( ?, ?, ? ) 
+13:40:52.862 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==> Parameters: 1(String), 1234@qq.com(String), 24(Integer)
+13:40:52.918 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+13:40:52.928 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40487250
+13:40:52.943 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@175786b
+13:40:52.957 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@303e7b77
+13:40:52.967 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@615a8724
+13:40:52.975 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bbf771c
+13:40:52.990 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65141ac7
+13:40:53.001 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:40:53.001 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=7, active=0, idle=7, waiting=0)
+13:40:53.003 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f: (connection evicted)
+13:40:53.008 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@513b30a3
+13:40:53.011 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@40487250: (connection evicted)
+13:40:53.011 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@175786b: (connection evicted)
+13:40:53.012 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@303e7b77: (connection evicted)
+13:40:53.013 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@615a8724: (connection evicted)
+13:40:53.014 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2bbf771c: (connection evicted)
+13:40:53.015 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@65141ac7: (connection evicted)
+13:40:53.016 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@513b30a3: (connection evicted)
+13:40:53.017 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:40:53.018 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:42:05.726 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:42:09.574 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:42:09.574 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:42:09.580 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:42:09.581 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:42:10.295 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:42:10.296 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:42:22.323 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:42:22.363 [main] WARN  c.b.m.core.metadata.TableInfoHelper:280- Warn: Could not find @TableId in Class: com.metu.analyapploginauth.login.PO.UserInfoEntity.
+13:42:22.378 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:42:22.384 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:42:22.390 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:42:22.396 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:42:22.398 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:42:22.403 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:42:22.406 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:42:22.407 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:42:22.409 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:42:22.421 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:42:22.425 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:42:22.429 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:42:22.432 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:42:22.435 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:42:22.438 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:42:22.442 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:42:22.446 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:42:22.846 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:42:22.887 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 25.749 seconds (JVM running for 26.799)
+13:42:23.343 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:42:23.345 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:42:23.345 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:42:23.346 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:42:23.346 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:42:23.346 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:42:23.346 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:42:23.347 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:42:23.347 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:42:23.347 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:42:23.347 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:42:23.348 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:42:23.348 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:42:23.348 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:42:23.348 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:42:23.348 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:42:23.349 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:42:23.349 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:42:23.349 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:42:23.349 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:42:23.349 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:42:23.350 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:42:23.350 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:42:23.350 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:42:23.350 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:42:23.350 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:42:23.351 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:42:23.351 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:42:23.351 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:42:23.351 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:42:23.351 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:42:23.351 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:42:23.352 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:42:23.352 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:42:23.352 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:42:23.357 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:42:23.357 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:42:23.548 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f
+13:42:23.550 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:42:23.565 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==>  Preparing: INSERT INTO t_users_information ( user_id, user_name, email, serv_num, age ) VALUES ( ?, ?, ?, ?, ? ) 
+13:42:23.589 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==> Parameters: 1(String), zhangsan(String), 1234@qq.com(String), sss(String), 24(Integer)
+13:42:23.652 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+13:42:23.663 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@11fb71f6
+13:42:23.673 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@50c67bcd
+13:42:23.685 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@615c0a6b
+13:42:23.693 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@30e98482
+13:42:23.704 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@fea5760
+13:42:23.716 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34a7d8d2
+13:42:23.727 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b913098
+13:42:23.737 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2170c7fa
+13:42:23.746 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:42:23.746 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=9, active=0, idle=9, waiting=0)
+13:42:23.747 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f: (connection evicted)
+13:42:23.754 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@11fb71f6: (connection evicted)
+13:42:23.754 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3e47c2f9
+13:42:23.754 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After adding stats (total=1, active=0, idle=1, waiting=0)
+13:42:23.755 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@50c67bcd: (connection evicted)
+13:42:23.756 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@615c0a6b: (connection evicted)
+13:42:23.757 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@30e98482: (connection evicted)
+13:42:23.758 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@fea5760: (connection evicted)
+13:42:23.759 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@34a7d8d2: (connection evicted)
+13:42:23.760 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3b913098: (connection evicted)
+13:42:23.762 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2170c7fa: (connection evicted)
+13:42:23.764 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3e47c2f9: (connection evicted)
+13:42:23.765 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:42:23.766 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:43:01.577 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:43:04.865 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:43:04.865 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:43:04.872 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:43:04.872 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:43:05.684 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:43:05.687 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:43:18.214 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:43:18.252 [main] WARN  c.b.m.core.metadata.TableInfoHelper:280- Warn: Could not find @TableId in Class: com.metu.analyapploginauth.login.PO.UserInfoEntity.
+13:43:18.264 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:43:18.270 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:43:18.274 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:43:18.281 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:43:18.283 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:43:18.290 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:43:18.294 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:43:18.295 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:43:18.297 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:43:18.300 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:43:18.304 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:43:18.308 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:43:18.312 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:43:18.316 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:43:18.319 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:43:18.325 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:43:18.329 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:43:18.780 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:43:18.824 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 26.815 seconds (JVM running for 27.787)
+13:43:19.465 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:43:19.467 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:43:19.468 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:43:19.468 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:43:19.468 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:43:19.469 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:43:19.469 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:43:19.469 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:43:19.469 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:43:19.470 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:43:19.470 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:43:19.471 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:43:19.471 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:43:19.471 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:43:19.472 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:43:19.472 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:43:19.472 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:43:19.472 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:43:19.473 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:43:19.473 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:43:19.473 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:43:19.474 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:43:19.474 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:43:19.474 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:43:19.475 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:43:19.475 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:43:19.475 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:43:19.476 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:43:19.476 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:43:19.476 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:43:19.477 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:43:19.478 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:43:19.478 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:43:19.479 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:43:19.479 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:43:19.484 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:43:19.485 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:43:19.707 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@128a188a
+13:43:19.709 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:43:19.724 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==>  Preparing: INSERT INTO t_users_information ( user_id, user_name, password, email, serv_num, age ) VALUES ( ?, ?, ?, ?, ?, ? ) 
+13:43:19.755 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==> Parameters: 1(String), zhangsan(String), 123456(String), 1234@qq.com(String), sss(String), 24(Integer)
+13:43:19.809 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+13:43:19.822 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@55bbd8da
+13:43:19.836 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1486d2e1
+13:43:19.844 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2558a7a6
+13:43:19.853 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@74a92dae
+13:43:19.873 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ce71868
+13:43:19.886 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@70e735be
+13:43:19.906 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@79966b1
+13:43:19.917 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@693413a
+13:43:19.928 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@75f77a28
+13:43:19.929 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+13:43:19.938 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:43:19.939 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+13:43:19.942 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@128a188a: (connection evicted)
+13:43:19.949 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@55bbd8da: (connection evicted)
+13:43:19.950 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1486d2e1: (connection evicted)
+13:43:19.952 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2558a7a6: (connection evicted)
+13:43:19.952 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@74a92dae: (connection evicted)
+13:43:19.953 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4ce71868: (connection evicted)
+13:43:19.954 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@70e735be: (connection evicted)
+13:43:19.955 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@79966b1: (connection evicted)
+13:43:19.957 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@693413a: (connection evicted)
+13:43:19.958 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@75f77a28: (connection evicted)
+13:43:19.959 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:43:19.959 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:45:22.045 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:45:25.574 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:45:25.575 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:45:25.583 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:45:25.584 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:45:26.617 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:45:26.620 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:45:38.475 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:45:38.502 [main] WARN  c.b.m.core.metadata.TableInfoHelper:280- Warn: Could not find @TableId in Class: com.metu.analyapploginauth.login.PO.UserInfoEntity.
+13:45:38.513 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:45:38.520 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:45:38.524 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:45:38.530 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:45:38.532 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:45:38.536 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:45:38.539 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:45:38.540 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:45:38.541 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:45:38.543 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:45:38.546 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:45:38.550 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:45:38.553 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:45:38.555 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:45:38.558 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:45:38.561 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:45:38.565 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:45:38.986 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:45:39.035 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 26.204 seconds (JVM running for 27.253)
+13:45:39.568 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:45:39.571 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:45:39.571 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:45:39.571 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:45:39.572 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:45:39.572 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:45:39.572 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:45:39.572 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:45:39.573 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:45:39.573 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:45:39.574 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:45:39.574 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:45:39.574 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:45:39.575 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:45:39.575 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:45:39.575 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:45:39.575 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:45:39.576 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:45:39.576 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:45:39.576 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:45:39.577 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:45:39.577 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:45:39.577 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:45:39.577 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:45:39.578 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:45:39.578 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:45:39.578 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:45:39.579 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:45:39.579 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:45:39.579 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:45:39.579 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:45:39.579 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:45:39.580 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:45:39.580 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:45:39.581 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:45:39.586 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:45:39.587 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:45:39.809 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f
+13:45:39.811 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:45:39.828 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==>  Preparing: INSERT INTO t_users_information ( user_id, user_name, password, email, serv_num, age ) VALUES ( ?, ?, ?, ?, ?, ? ) 
+13:45:39.858 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==> Parameters: 1(String), zhangsan(String), 123456(String), 1234@qq.com(String), sss(String), 24(Integer)
+13:45:39.912 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+13:45:39.925 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5628a0d0
+13:45:39.936 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1715aaeb
+13:45:39.945 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2648df47
+13:45:39.959 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@773a55a4
+13:45:39.967 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@c3e4178
+13:45:39.978 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7374ce37
+13:45:39.991 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6685cd65
+13:45:40.004 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ebb681c
+13:45:40.018 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@58c3927c
+13:45:40.018 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+13:45:40.064 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:45:40.065 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+13:45:40.066 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f: (connection evicted)
+13:45:40.074 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5628a0d0: (connection evicted)
+13:45:40.075 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1715aaeb: (connection evicted)
+13:45:40.076 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2648df47: (connection evicted)
+13:45:40.077 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@773a55a4: (connection evicted)
+13:45:40.079 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@c3e4178: (connection evicted)
+13:45:40.079 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7374ce37: (connection evicted)
+13:45:40.081 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6685cd65: (connection evicted)
+13:45:40.083 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3ebb681c: (connection evicted)
+13:45:40.085 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@58c3927c: (connection evicted)
+13:45:40.087 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:45:40.087 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:46:25.236 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:46:29.069 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:46:29.069 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:46:29.077 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:46:29.078 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:46:29.796 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:46:29.798 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:46:41.679 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:46:41.706 [main] WARN  c.b.m.core.metadata.TableInfoHelper:280- Warn: Could not find @TableId in Class: com.metu.analyapploginauth.login.PO.UserInfoEntity.
+13:46:41.714 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:46:41.720 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:46:41.723 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:46:41.728 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:46:41.730 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:46:41.736 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:46:41.740 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:46:41.741 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:46:41.743 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:46:41.745 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:46:41.748 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:46:41.750 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:46:41.753 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:46:41.756 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:46:41.759 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:46:41.762 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:46:41.765 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:46:42.162 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:46:42.193 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 25.681 seconds (JVM running for 26.715)
+13:46:42.617 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:46:42.620 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:46:42.621 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:46:42.621 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:46:42.621 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:46:42.622 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:46:42.622 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:46:42.622 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:46:42.623 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:46:42.623 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:46:42.623 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:46:42.624 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:46:42.624 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:46:42.624 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:46:42.624 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:46:42.625 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:46:42.625 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:46:42.625 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:46:42.625 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:46:42.626 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:46:42.626 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:46:42.626 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:46:42.626 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:46:42.626 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:46:42.627 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:46:42.627 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:46:42.627 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:46:42.628 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:46:42.628 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:46:42.628 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:46:42.628 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:46:42.628 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:46:42.629 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:46:42.629 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:46:42.629 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:46:42.633 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:46:42.633 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:46:42.809 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f
+13:46:42.811 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:46:42.826 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==>  Preparing: INSERT INTO t_users_information ( user_id, user_name, password, email, serv_num, sex, age ) VALUES ( ?, ?, ?, ?, ?, ?, ? ) 
+13:46:42.855 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==> Parameters: 1(String), zhangsan(String), 123456(String), 1234@qq.com(String), sss(String), m(String), 24(Integer)
+13:46:42.913 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+13:46:42.925 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@166aceaa
+13:46:42.934 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5757c491
+13:46:42.946 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@664ab319
+13:46:42.957 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@37783bde
+13:46:42.969 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@b34efe8
+13:46:42.976 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3336e00f
+13:46:42.983 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7ca0e170
+13:46:42.992 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@32507967
+13:46:43.005 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:46:43.006 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=9, active=0, idle=9, waiting=0)
+13:46:43.007 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f894a6f: (connection evicted)
+13:46:43.011 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@10355a1e
+13:46:43.012 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After adding stats (total=1, active=0, idle=1, waiting=0)
+13:46:43.015 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@166aceaa: (connection evicted)
+13:46:43.016 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5757c491: (connection evicted)
+13:46:43.018 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@664ab319: (connection evicted)
+13:46:43.019 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@37783bde: (connection evicted)
+13:46:43.020 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b34efe8: (connection evicted)
+13:46:43.021 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3336e00f: (connection evicted)
+13:46:43.023 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7ca0e170: (connection evicted)
+13:46:43.023 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@32507967: (connection evicted)
+13:46:43.025 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@10355a1e: (connection evicted)
+13:46:43.026 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:46:43.027 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+13:50:06.695 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:50:10.070 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:50:10.070 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:50:10.077 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:50:10.078 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:50:11.048 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:50:11.052 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:50:22.628 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:50:22.667 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:50:22.674 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:50:22.678 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:50:22.683 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:50:22.685 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:50:22.692 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:50:22.695 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:50:22.696 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:50:22.698 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:50:22.700 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:50:22.703 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:50:22.708 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:50:22.712 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:50:22.716 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:50:22.720 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:50:22.725 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:50:22.729 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:50:23.215 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:50:23.261 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 24.803 seconds (JVM running for 25.978)
+13:51:18.977 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:51:22.883 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:51:22.883 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:51:22.892 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:51:22.892 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:51:23.997 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:51:24.000 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:51:35.388 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:51:35.437 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:51:35.445 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:51:35.450 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:51:35.456 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:51:35.458 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:51:35.465 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:51:35.467 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:51:35.468 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:51:35.470 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:51:35.473 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:51:35.478 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:51:35.483 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:51:35.487 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:51:35.490 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:51:35.494 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:51:35.497 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:51:35.500 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:51:36.004 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:51:36.053 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 25.477 seconds (JVM running for 26.743)
+13:52:17.424 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+13:52:20.754 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:52:20.754 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:52:20.762 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+13:52:20.762 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+13:52:21.480 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+13:52:21.483 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+13:52:33.532 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+13:52:33.570 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+13:52:33.577 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+13:52:33.582 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+13:52:33.587 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+13:52:33.589 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+13:52:33.595 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+13:52:33.598 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+13:52:33.599 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+13:52:33.601 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+13:52:33.603 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+13:52:33.606 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+13:52:33.610 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+13:52:33.613 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+13:52:33.615 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+13:52:33.618 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+13:52:33.623 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+13:52:33.626 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+13:52:34.027 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:52:34.065 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 25.271 seconds (JVM running for 26.373)
+13:52:34.481 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+13:52:34.483 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+13:52:34.483 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+13:52:34.483 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+13:52:34.484 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+13:52:34.484 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+13:52:34.484 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+13:52:34.484 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+13:52:34.484 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+13:52:34.485 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+13:52:34.485 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+13:52:34.485 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+13:52:34.485 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+13:52:34.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+13:52:34.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+13:52:34.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+13:52:34.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+13:52:34.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+13:52:34.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+13:52:34.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+13:52:34.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+13:52:34.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+13:52:34.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+13:52:34.488 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+13:52:34.488 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+13:52:34.488 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+13:52:34.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+13:52:34.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+13:52:34.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+13:52:34.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+13:52:34.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+13:52:34.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+13:52:34.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+13:52:34.491 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+13:52:34.491 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+13:52:34.496 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+13:52:34.496 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+13:52:34.649 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3458dab6
+13:52:34.651 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+13:52:34.666 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==>  Preparing: INSERT INTO t_users_information ( user_id, user_name, password, email, serv_num, sex, age ) VALUES ( ?, ?, ?, ?, ?, ?, ? ) 
+13:52:34.695 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- ==> Parameters: 0(Integer), zhangsan(String), 123456(String), 1234@qq.com(String), sss(String), m(String), 24(Integer)
+13:52:34.702 [main] DEBUG c.m.a.mapper.UserLoginMapper.insert:143- <==    Updates: 1
+13:52:34.753 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+13:52:34.766 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a9d79d7
+13:52:34.770 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+13:52:34.770 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=2, active=0, idle=2, waiting=0)
+13:52:34.771 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@3458dab6: (connection evicted)
+13:52:34.777 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1ba073ec
+13:52:34.778 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5a9d79d7: (connection evicted)
+13:52:34.779 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1ba073ec: (connection evicted)
+13:52:34.780 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+13:52:34.781 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.
+14:32:43.137 [main] INFO  c.m.a.mapper.UserLoginMapperTest:655- The following profiles are active: dev
+14:32:46.515 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+14:32:46.516 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+14:32:46.521 [main] WARN  c.n.c.sources.URLConfigurationSource:121- No URLs will be polled as dynamic configuration sources.
+14:32:46.521 [main] INFO  c.n.c.sources.URLConfigurationSource:122- To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+14:32:47.272 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Registered plugin: 'AbstractSqlParserHandler(sqlParserList=null, sqlParserFilter=null)'
+14:32:47.275 [main] DEBUG c.b.m.e.s.MybatisSqlSessionFactoryBean:49- Property 'mapperLocations' was not specified.
+14:32:59.468 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectUserById
+14:32:59.515 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.insert
+14:32:59.521 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.delete
+14:32:59.527 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteByMap
+14:32:59.532 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteById
+14:32:59.534 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.deleteBatchIds
+14:32:59.539 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.update
+14:32:59.541 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.updateById
+14:32:59.542 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectById
+14:32:59.545 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectBatchIds
+14:32:59.548 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectByMap
+14:32:59.553 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectOne
+14:32:59.555 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectCount
+14:32:59.558 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMaps
+14:32:59.561 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectMapsPage
+14:32:59.565 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectObjs
+14:32:59.569 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectList
+14:32:59.572 [main] DEBUG c.b.m.core.MybatisConfiguration:79- addMappedStatement: com.metu.analyapploginauth.mapper.UserLoginMapper.selectPage
+14:32:59.995 [main] DEBUG com.zaxxer.hikari.HikariConfig:900- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+14:33:00.045 [main] INFO  c.m.a.mapper.UserLoginMapperTest:61- Started UserLoginMapperTest in 25.819 seconds (JVM running for 26.774)
+14:33:00.483 [main] DEBUG com.zaxxer.hikari.HikariConfig:1020- HikariPool-1 - configuration:
+14:33:00.485 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- allowPoolSuspension.............false
+14:33:00.485 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- autoCommit......................true
+14:33:00.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- catalog.........................none
+14:33:00.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionInitSql...............none
+14:33:00.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTestQuery.............none
+14:33:00.486 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- connectionTimeout...............30000
+14:33:00.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSource......................none
+14:33:00.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceClassName.............none
+14:33:00.487 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceJNDI..................none
+14:33:00.488 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- dataSourceProperties............{password=<masked>}
+14:33:00.488 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- driverClassName................."com.mysql.jdbc.Driver"
+14:33:00.488 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckProperties...........{}
+14:33:00.488 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- healthCheckRegistry.............none
+14:33:00.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- idleTimeout.....................600000
+14:33:00.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- initializationFailTimeout.......1
+14:33:00.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- isolateInternalQueries..........false
+14:33:00.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- jdbcUrl.........................jdbc:mysql://localhost:3306/analysisauth?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=false
+14:33:00.489 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- leakDetectionThreshold..........0
+14:33:00.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maxLifetime.....................1800000
+14:33:00.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- maximumPoolSize.................10
+14:33:00.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricRegistry..................none
+14:33:00.490 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- metricsTrackerFactory...........none
+14:33:00.491 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- minimumIdle.....................10
+14:33:00.491 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- password........................<masked>
+14:33:00.491 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- poolName........................"HikariPool-1"
+14:33:00.491 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- readOnly........................false
+14:33:00.492 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- registerMbeans..................false
+14:33:00.492 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- scheduledExecutor...............none
+14:33:00.492 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- schema..........................none
+14:33:00.492 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- threadFactory...................internal
+14:33:00.493 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- transactionIsolation............default
+14:33:00.493 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- username........................"root"
+14:33:00.493 [main] DEBUG com.zaxxer.hikari.HikariConfig:1052- validationTimeout...............5000
+14:33:00.494 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+14:33:00.499 [main] WARN  c.z.hikari.util.DriverDataSource:70- Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+14:33:00.499 [main] DEBUG c.z.hikari.util.DriverDataSource:77- Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+14:33:00.701 [main] DEBUG com.zaxxer.hikari.pool.HikariPool:566- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2f262474
+14:33:00.704 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+14:33:00.733 [main] DEBUG c.m.a.m.UserLoginMapper.deleteById:143- ==>  Preparing: UPDATE t_users_information SET is_delete=1 WHERE user_id=? AND is_delete=0 
+14:33:00.763 [main] DEBUG c.m.a.m.UserLoginMapper.deleteById:143- ==> Parameters: 1(Integer)
+14:33:00.771 [main] DEBUG c.m.a.m.UserLoginMapper.deleteById:143- <==    Updates: 1
+14:33:00.805 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+14:33:00.815 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65f1d6d3
+14:33:00.827 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:350- HikariPool-1 - Shutdown initiated...
+14:33:00.827 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - Before shutdown stats (total=2, active=0, idle=2, waiting=0)
+14:33:00.828 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2f262474: (connection evicted)
+14:33:00.830 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool:730- HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24ccdce8
+14:33:00.837 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@65f1d6d3: (connection evicted)
+14:33:00.838 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase:129- HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@24ccdce8: (connection evicted)
+14:33:00.839 [SpringContextShutdownHook] DEBUG com.zaxxer.hikari.pool.HikariPool:417- HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+14:33:00.839 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource:352- HikariPool-1 - Shutdown completed.

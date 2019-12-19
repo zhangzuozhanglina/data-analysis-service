@@ -1,6 +1,9 @@
 package com.metu.analyapploginauth.login.PO;
 
 
+import com.baomidou.mybatisplus.annotation.TableId;
+import com.baomidou.mybatisplus.annotation.TableLogic;
+import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.*;
 import lombok.experimental.Accessors;
 
@@ -17,8 +20,10 @@ import lombok.experimental.Accessors;
 @AllArgsConstructor
 @Builder
 @Accessors(chain = true,fluent = false)
+@TableName("t_users_information")
 public class UserInfoEntity{
-private String user_id;
+@TableId
+private int user_id;
 private String user_name;
 private String password;
 private String register_date;
@@ -27,5 +32,6 @@ private String serv_num;
 private String sex;
 private int  age;
 private String status;
-
+@TableLogic
+private int is_delete;
 }

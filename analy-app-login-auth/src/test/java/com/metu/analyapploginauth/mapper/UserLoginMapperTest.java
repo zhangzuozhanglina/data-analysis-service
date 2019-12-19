@@ -1,6 +1,7 @@
 package com.metu.analyapploginauth.mapper;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.metu.analyapploginauth.AnalyAppLoginAuthApplication;
 import com.metu.analyapploginauth.login.PO.UserInfoEntity;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -32,18 +33,26 @@ public class UserLoginMapperTest {
     }
     @Test
     public void testUserLoginByMybatisPlus() {
-
-
         // 新增用户
-        /*UserInfoEntity user=new UserInfoEntity();
-        user.setUser_id("1");
+        UserInfoEntity user=new UserInfoEntity();
+        user.setServ_num("sss");
+        user.setUser_name("zhangsan");
+        user.setPassword("123456");
         user.setAge(24);
         user.setEmail("1234@qq.com");
-        userLoginMapper.insert(user);*/
+        user.setSex("m");
+        userLoginMapper.insert(user);
         // 查看用户
-
       /* int rs= userLoginMapper.selectCount(new QueryWrapper<UserInfoEntity>().lambda().eq(UserInfoEntity::getUser_id,"1"));
         System.out.println(rs);*/
+    }
+
+    /**
+     * 逻辑删除
+     */
+    @Test
+    public void testDelete() {
+        userLoginMapper.deleteById(1);
     }
 
 

@@ -11,5 +11,5 @@ import java.util.ArrayList;
 @FeignClient(name="Service",url = "localhost:8081")
 public interface UserLoginFeignService {
     @RequestMapping(value = "/listAllUser1", method = RequestMethod.GET)
-    public ArrayList get();
+    public ArrayList getAllUserInfo();
 }
