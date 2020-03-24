@@ -1,0 +1,18 @@
+server:
+  port: 8087
+spring:
+  profiles:
+    active: dev
+  application:
+    name: analy-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: app1-route
+          uri: http://www.ityouknow.com
+          predicates:
+            - Path=/spring-cloud
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka

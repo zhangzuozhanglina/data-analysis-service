@@ -1,0 +1,5 @@
+seimi:
+  crawler:
+    names: cityzone-spider
+    enabled: true
+    enable-redisson-queue: false
